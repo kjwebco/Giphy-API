@@ -1,0 +1,31 @@
+body {
+    background-image: url(../images/logo_buildtext_white_forever.gif);
+    background-size: cover;                    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100px;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+    margin: 20px;
+}
+
+#topicButton {
+    margin: 20px;
+}
+
+#addAnimal {
+    margin: 20px;
+}
+
+#animalInput {
+    margin: 20px;
+    width: 75%;
+
+}
+.btn{
+	margin: 0.4%;
+    box-shadow: 10px 10px 5px #888888;
